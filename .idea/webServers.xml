@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="775f7c05-c120-4139-aebf-838e0a633f5f" name="DDT">
+        <fileTransfer rootFolder="/home/junho/PycharmProjects" accessType="SFTP" host="ThinkStation-P920-1" port="22" sshConfigId="d91d856c-3b6b-4655-97b2-2569f58b9122" sshConfig="junho@ThinkStation-P920-1:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
