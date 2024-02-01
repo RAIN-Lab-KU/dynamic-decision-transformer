@@ -16,7 +16,7 @@ dependencies:
   - absl-py
   - atari-py
   - gin-config
-  - gym
+  - gym_
   - tqdm
   - blosc
   - git+https://github.com/google/dopamine.git

@@ -305,4 +305,4 @@ if __name__ == '__main__':
     
     args = parser.parse_args()
 
-    experiment('gym-experiment', variant=vars(args))
+    experiment('gym_-experiment', variant=vars(args))
